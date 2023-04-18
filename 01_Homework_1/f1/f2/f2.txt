@@ -1,0 +1,10 @@
+carrot - 2
+tomatoes - 10
+cucumbers - 12
+fish - 7
+pork - 3
+beef - 6
+mushrooms - 4
+cabbage - 2
+sdfdsf - 3
+auto - 72
